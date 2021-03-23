@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.rbenv-version
+.ruby-version
+vendor
+**/.DS_Store
+tmp
+.powenv
